@@ -82,15 +82,17 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Srabani0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff61f6&icon_color=ff61f6&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Srabani0&show_icons=true&theme=radical" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Srabani0&theme=radical&hide_border=true&background=0D1117&ring=ff61f6&fire=ff61f6&currStreakLabel=ff61f6"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=Srabani0&theme=radical" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srabani0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff61f6&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Srabani0&layout=compact&theme=radical" />
 
 </div>
 
@@ -100,7 +102,13 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Srabani0&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-ff61f6?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Hackathon-Participant-7f5af0?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Frontend-Developer-ff61f6?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Creative-Designer-7f5af0?style=for-the-badge" />
 
 </div>
 
